@@ -1,4 +1,4 @@
-Demo GIF: https://cl.ly/3O0C2O0h3A1V
+Demo GIF: https://cl.ly/0Y1C0g0S0y2g
 
 This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).
 
