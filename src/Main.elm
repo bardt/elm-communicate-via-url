@@ -17,7 +17,7 @@ type alias Model =
 
 init : Location -> ( Model, Cmd Msg )
 init location =
-    ( { n = 1, knownN = Nothing }, Cmd.none )
+    ( { n = 1, knownN = parseHash int location }, Cmd.none )
 
 
 
